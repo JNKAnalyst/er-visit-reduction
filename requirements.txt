@@ -1,0 +1,7 @@
+# This project uses Microsoft Excel with VBA macros.
+# No Python dependencies required.
+#
+# Software Requirements:
+# - Microsoft Excel 2016 or later (Microsoft 365 recommended)
+# - Macros must be enabled in Excel Trust Center settings
+# - Tested on Windows 10/11 and macOS with Microsoft 365

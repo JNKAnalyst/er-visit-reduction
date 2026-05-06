@@ -1,0 +1,8 @@
+key,value,notes
+baseline_visits_per_month,1200,Starting avoidable ER utilization count
+cost_per_visit,1850,Average loaded cost per ER visit (USD)
+reduction_A,0.17,Telehealth triage reduction (fraction)
+reduction_B,0.24,Care coordination reduction (fraction)
+reduction_C,0.12,Patient education reduction (fraction)
+horizon_months,12,Projection window in months
+discount_rate_annual,0.00,Annual discount rate (0 disables discounting)
