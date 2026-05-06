@@ -117,5 +117,5 @@ Verifies the scenario math used by `modScenarios.bas` matches the formulas docum
 
 ## Author
 
-**Joash** | MS Business Analytics  
+**Joash**  
 [GitHub](https://github.com/JNKAnalyst) | [Portfolio](https://jnkanalyst.github.io/portfolio/)
